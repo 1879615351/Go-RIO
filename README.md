@@ -1,5 +1,7 @@
-# [2025 ICRA] Go-RIO: Ground-Optimized 4D Radar-Inertial Odometry via Continuous Velocity Integration using Gaussian Process
+# [ICRA2025] Go-RIO: Ground-Optimized 4D Radar-Inertial Odometry via Continuous Velocity Integration using Gaussian Process
 
-[[High Resolution Video](https://youtu.be/0FnJ_BZe3vo)]
 
-Code will be available after review process.
+Full Source Code will be available soon!
+
+[[Paper](https://www.arxiv.org/abs/2502.08093)]
+[[Video](https://youtu.be/0FnJ_BZe3vo)]
