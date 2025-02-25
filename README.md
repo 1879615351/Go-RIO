@@ -1,9 +1,9 @@
 <p align="center">
   <h1 align="center">[ICRA2025] Go-RIO: Ground-Optimized 4D Radar-Inertial Odometry via Continuous Velocity Integration using Gaussian Process</h1>
   <p align="center">
-    <a href="https://scholar.google.com/citations?hl=en&user=lh2KUKMAAAAJ"><strong>Wooseong Yang*</strong></a>
+    <a href="https://scholar.google.com/citations?hl=en&user=lh2KUKMAAAAJ"><strong>Wooseong Yang</strong></a>
     ·
-    <a href="https://scholar.google.com/citations?hl=en&user=liSzSegAAAAJ"><strong>Hyesu Jang*</strong></a>
+    <a href="https://scholar.google.com/citations?hl=en&user=liSzSegAAAAJ"><strong>Hyesu Jang</strong></a>
     ·
     <a href="https://scholar.google.com/citations?hl=en&user=7yveufgAAAAJ"><strong>Ayoung Kim</strong></a>
   </p>
