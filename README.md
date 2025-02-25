@@ -18,7 +18,7 @@ Full Source Code will be available soon!
 ## Citation
 If you use our paper for any academic work, please cite our paper.
 ```bibtex
-@INPROCEEDINGS { wsyang-2025-icra,
+@INPROCEEDINGS {wsyang-2025-icra,
     author={Wooseong Yang and Hyesu Jang and Ayoung Kim},
     title={Ground-Optimized 4D Radar-Inertial Odometry via Continuous Velocity Integration using Gaussian Process},
     booktitle={Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)},
