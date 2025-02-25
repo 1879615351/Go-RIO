@@ -16,7 +16,7 @@
 Full Source Code will be available soon!
 
 ## Citation
-If you use ELite for any academic work, please cite our paper.
+If you use our paper for any academic work, please cite our paper.
 ```bibtex
 @INPROCEEDINGS { wsyang-2025-icra,
     author={Wooseong Yang and Hyesu Jang and Ayoung Kim},
