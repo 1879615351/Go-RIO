@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Go-RIO (2025 ICRA)</h1>
+  <h1 align="center">Go-RIO: Ground-Optimized 4D Radar-Inertial Odometry via Continuous Velocity Integration using Gaussian Process</h1>
   <p align="center">
     <a href="https://scholar.google.com/citations?hl=en&user=lh2KUKMAAAAJ"><strong>Wooseong Yang</strong></a>
     ·
