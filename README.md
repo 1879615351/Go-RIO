@@ -1,5 +1,6 @@
 <p align="center">
   <h1 align="center">Go-RIO: Ground-Optimized 4D Radar-Inertial Odometry via Continuous Velocity Integration using Gaussian Process</h1>
+  <p align="center"><strong>[ICRA 2025 Best Paper Award Finalist]</strong></p>
   <p align="center">
     <a href="https://scholar.google.com/citations?hl=en&user=lh2KUKMAAAAJ"><strong>Wooseong Yang</strong></a>
     ·
@@ -11,9 +12,12 @@
   <div align="center"></div>
 </p>
 
+## News
+* **[24/04/2025]**: Our paper is selected as the **finalist** for ICRA 2025 **Best Paper Award**.
+* **[29/01/2025]**: Our paper is accepted to ICRA 2025.
 
 ## Run
-Full Source Code will be available soon!
+Full Source Code will be available soon! (Almost there!)
 
 ## Citation
 If you use our paper for any academic work, please cite our paper.
