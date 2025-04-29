@@ -13,11 +13,38 @@
 </p>
 
 ## News
-* **[24/04/2025]**: Our paper is selected as the **finalist** for ICRA 2025 **Best Paper Award**.
+* **[29/04/2025]**: Full source code is available.
+* **[24/04/2025]**: Our paper is selected as the **finalist** for ICRA 2025 **Best Paper Award**!
 * **[29/01/2025]**: Our paper is accepted to ICRA 2025.
 
 ## Run
 Full Source Code will be available soon! (Almost there!)
+
+We recommend using the provided Docker environment (Ubuntu 20.04) for testing our code.
+
+1. Clone our repository
+    ```bash
+    mkdir -p gorio_ws/src && cd gorio_ws/src
+    git clone https://github.com/wooseongY/Go-RIO
+    ```
+2. Build the Docker image
+   ```bash
+   cd docker
+   sudo chmod +x build.sh
+   ./build.sh
+   ```
+3. Modify the DATA_DIR in the run.sh as the appropriate data folder
+4. Run the Docker container and build the package
+    ```bash
+    sudo chmod +x run.sh
+    ./run.sh
+    catkin_make && source devel/setup.bash
+    ```
+5. Modify the bag file path in the rosbag_play_<seq>.launch file as "/root/data/<bag_directory>", which contains the data bag file.
+6. Launch our algorithm and enjoy :)
+   ```bash
+   roslaunch gorio <launch file name>.launch
+   ```
 
 ## Citation
 If you use our paper for any academic work, please cite our paper.
