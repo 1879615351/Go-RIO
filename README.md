@@ -13,7 +13,6 @@
 </p>
 
 ## News
-* **[29/04/2025]**: Full source code is available.
 * **[24/04/2025]**: Our paper is selected as the **finalist** for ICRA 2025 **Best Paper Award**!
 * **[29/01/2025]**: Our paper is accepted to ICRA 2025.
 
