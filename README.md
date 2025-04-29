@@ -25,7 +25,7 @@ We recommend using the provided Docker environment (Ubuntu 20.04) for testing ou
 1. Clone our repository
     ```bash
     mkdir -p gorio_ws/src && cd gorio_ws/src
-    git clone https://github.com/wooseongY/Go-RIO
+    git clone https://github.com/wooseongY/Go-RIO .
     ```
 2. Build the Docker image
    ```bash
