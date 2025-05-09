@@ -43,6 +43,7 @@ We recommend using the provided Docker environment (Ubuntu 20.04) for testing ou
 6. Launch our algorithm and enjoy :)
    ```bash
    roslaunch gorio <launch file name>.launch
+   rostopic pub /command std_msgs/String "output_aftmapped"
    ```
 
 ## Citation
