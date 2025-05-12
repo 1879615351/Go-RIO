@@ -13,12 +13,11 @@
 </p>
 
 ## News
+* **[12/05/2025]**: Full source code is uploaded.
 * **[24/04/2025]**: Our paper is selected as the **finalist** for ICRA 2025 **Best Paper Award**!
 * **[29/01/2025]**: Our paper is accepted to ICRA 2025.
 
 ## Run
-Full Source Code will be available soon! (Almost there!)
-
 We recommend using the provided Docker environment (Ubuntu 20.04) for testing our code.
 
 1. Clone our repository
