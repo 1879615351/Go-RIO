@@ -65,3 +65,7 @@ If you have any questions, please contact:
 
 ## Acknowledgement 
 This work was supported by the Robotics and AI (RAI) Institute, and in part by the MOITE, Korea (No. 1415187329).
+
+And thanks for authors of [UGPM](https://github.com/UTS-RI/ugpm), [4DRadarSLAM](https://github.com/zhuge2333/4DRadarSLAM), [Patchwork](https://github.com/url-kaist/patchwork-plusplus-ros) and [REVE](https://github.com/christopherdoer/reve).
+
+
