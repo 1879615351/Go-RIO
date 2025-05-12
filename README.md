@@ -39,7 +39,7 @@ We recommend using the provided Docker environment (Ubuntu 20.04) for testing ou
     ./run.sh
     catkin_make && source devel/setup.bash
     ```
-5. Modify the bag file path in the rosbag_play_<seq>.launch file as "/root/data/<bag_directory>", which contains the data bag file.
+5. Modify the bag file path in the rosbag_play_\<sequence\>.launch file as "/root/data/<your_bag_directory>", which contains your proper bag file.
 6. Launch our algorithm and enjoy :)
    ```bash
    roslaunch gorio <launch file name>.launch
