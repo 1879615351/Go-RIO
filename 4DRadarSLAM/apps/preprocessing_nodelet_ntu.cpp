@@ -425,7 +425,7 @@ private:
     if (estimator.estimate(pc2_raw_msg, v_r, sigma_v_r, inlier_radar_msg, outlier_radar_msg))
     {
       if(v_r.norm() < 0.05){
-        sdt::cout << "Zero velocity detected, skip this frame" << std::endl;
+        std::cout << "Zero velocity detected, skip this frame" << std::endl;
         return;
       }
       clock_t end_ms = clock();

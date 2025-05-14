@@ -259,7 +259,6 @@ namespace ugpm
     struct PreintMeas : PreintMeasBasic
     {
         EIGEN_MAKE_ALIGNED_OPERATOR_NEW
-        // Mat9 cov;
         Mat6 cov;
 
         Mat3 d_delta_R_d_bw;
@@ -270,13 +269,11 @@ namespace ugpm
         Vec3 d_delta_p_d_t;
 
         PreintMeas(Mat3 d_R,
-                Vec3 d_v,
                 Vec3 d_p,
                 double dt, 
                 double dt_sq_half,
-                // Mat9 cov_mat) :
                 Mat6 cov_mat) :
-                PreintMeasBasic{d_R, d_v, d_p, dt, dt_sq_half}, cov(cov_mat) {}; 
+                PreintMeasBasic{d_R, d_p, dt, dt_sq_half}, cov(cov_mat) {}; 
 
         PreintMeas(){};
 
