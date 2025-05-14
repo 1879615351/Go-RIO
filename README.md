@@ -13,12 +13,11 @@
 </p>
 
 ## News
+* **[12/05/2025]**: Full source code is uploaded.
 * **[24/04/2025]**: Our paper is selected as the **finalist** for ICRA 2025 **Best Paper Award**!
 * **[29/01/2025]**: Our paper is accepted to ICRA 2025.
 
 ## Run
-Full Source Code will be available soon! (Almost there!)
-
 We recommend using the provided Docker environment (Ubuntu 20.04) for testing our code.
 
 1. Clone our repository
@@ -65,3 +64,7 @@ If you have any questions, please contact:
 
 ## Acknowledgement 
 This work was supported by the Robotics and AI (RAI) Institute, and in part by the MOITE, Korea (No. 1415187329).
+
+And thanks for authors of [UGPM](https://github.com/UTS-RI/ugpm), [4DRadarSLAM](https://github.com/zhuge2333/4DRadarSLAM), [Patchwork](https://github.com/url-kaist/patchwork-plusplus-ros) and [REVE](https://github.com/christopherdoer/reve).
+
+
